@@ -1,4 +1,4 @@
-package com.example.kotlinexample2
+package com.example.classactivity9
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

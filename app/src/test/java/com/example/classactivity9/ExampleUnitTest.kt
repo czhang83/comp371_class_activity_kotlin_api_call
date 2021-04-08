@@ -1,4 +1,4 @@
-package com.example.kotlinexample2
+package com.example.classactivity9
 
 import org.junit.Test
 
